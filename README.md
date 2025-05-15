@@ -37,7 +37,6 @@ The script will loop through passwords until it finds the correct one or finishe
 ---
 
 
----
 
 ## ⚠️ Disclaimer
 
